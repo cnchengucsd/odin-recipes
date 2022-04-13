@@ -1,0 +1,17 @@
+* {
+    font-family: Arial, Verdana, Helvetica, sans-serif;
+    background-color: #fcfeff;
+}
+
+.introimage{
+    height:auto;
+    width:400px;
+}
+
+h1,
+h2,
+h3{
+    background-color: #89bafb;
+    font-weight: bold;
+    text-align:center;
+}
